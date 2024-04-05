@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : # example: "he/him"  
+  bio              : "I am a PhD student at the University of Kentucky. I am interested in understanding the relationship between climate change and phenology"
+  location         : "Lexington, KY"
+  employer         : "University of Kentucky"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "isaac.oluwatimilehin@uky.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
