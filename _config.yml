@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Isaac Oluwatimilehin / Site Title"
 title_separator          : "-"
-name                     : &name "Isaac A. Oluwatimilehin"
+name                     : &name "Isaac_A_Oluwatimilehin"
 description              : &description "personal description"
 url                      : https://ioluwatimilehin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=oDdp37MAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1774-5717"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=isaac+oluwatimilehin"
   researchgate     : "https://www.researchgate.net/profile/Isaac-Oluwatimilehin"
 
   # Repositories and software development
