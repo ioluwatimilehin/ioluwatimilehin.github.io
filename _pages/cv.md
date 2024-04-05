@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: "https://drive.google.com/file/d/1g1UapcMslvyAnvpdK_66pWmbFVxzDoo9/view?usp=sharing"
   - /resume
 ---
 
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geography, University of Kentucky, 2027 (expected)
+* M.S. in Geography, Obafemi Awolowo University, Ile-Ife, Nigeria 2021
+* B.S. in Geography & Planning, Kogi State University, Anyigba, Nigeria 2012
 
 Work experience
 ======
